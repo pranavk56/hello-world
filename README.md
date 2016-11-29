@@ -1,2 +1,2 @@
 # hello-world
-Cool repository
+ Hey there! I am using GitHub.
